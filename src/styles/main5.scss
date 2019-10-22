@@ -1,0 +1,613 @@
+.data5{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    height: 565.88px;
+    width: 1920px;
+}
+.divo{
+    height: 100%;
+}
+.certona{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    margin-top: 40px;
+    padding-bottom: 80px;
+    height: 100%;
+}
+.container5{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1600px;
+}
+.recently{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+}
+.row5{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.coles{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    float: left;
+    padding: 0 15px;
+    width: 75%;
+    margin-left: 12.5%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.wrapper5 {
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    max-width: 1366px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.containerP{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+    user-select: none;
+}
+.gl-text-center{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    text-align: center;
+}
+.title5{
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 30px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+.slider{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    margin-left: 0;
+    display: flex;
+    width: 100%;
+    transform: translate3d(0px, 0px, 0px);
+    transition: transform 0ms ease 0s;
+}
+.item_wrapper{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 0;
+    margin: 0;
+    width: 25%;
+}
+.hockeycard{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    padding: 20px 0;
+}
+.gl-product-card-container{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    margin: 0 5px;
+}
+.gl-product-card{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    position: relative;
+    width: 100%;
+    border: 1px solid transparent;
+}
+.gl-product-card-media{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    color: #000;
+    cursor: pointer;
+    box-sizing: border-box;
+    background: #ebedee;
+    border-bottom: 0;
+    background-color: #eceff0;
+}
+.gl-product-card-image{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    color: inherit;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+}
+.gl-product-card-wish{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    color: #000;
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+.toggle-button{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    cursor: pointer;
+    color: #000;
+    box-sizing: border-box;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    height: 100%;
+}
+.gl-badge{
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    background-color: #fff;
+    color: #000;
+    display: inline-block;
+    letter-spacing: 2px;
+    line-height: 1.1em;
+    max-width: 90%;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    transform: translate(-100%) rotate(270deg);
+    transform-origin: right top;
+    white-space: nowrap;
+    left: 10px;
+    top: 10px;
+    font-size: 12px;
+    padding: 4px 4px 6px;
+}
+.gl-badge-alert{
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: inline-block;
+    letter-spacing: 2px;
+    line-height: 1.1em;
+    max-width: 90%;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    transform: translate(-100%) rotate(270deg);
+    transform-origin: right top;
+    white-space: nowrap;
+    left: 10px;
+    top: 10px;
+    font-size: 12px;
+    padding: 4px 4px 6px;
+    background-color: #fff;
+    color: #000;
+    font-weight: 700;
+}
+.gl-product-card__details{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    color: #000;
+    cursor: pointer;
+    box-sizing: border-box;
+    clear: both;
+    overflow: auto;
+    min-height: 129px;
+}
+.gl-product-card__details-top{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    color: inherit;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 10px;
+    min-height: 17px;
+}
+.gl-product-card__category{
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    box-sizing: border-box;
+    font-size: 12px;
+    color: #767677;
+    flex: 1 1 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.gl-product-card__details-icons{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    color: inherit;
+    box-sizing: border-box;
+    display: flex;
+}
+.gl-product-card__details-main{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    color: inherit;
+    box-sizing: border-box;
+    height: 60px;
+    line-height: normal;
+}
+.gl-product-card__name{
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    color: inherit;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: .5px;
+    margin: 0 0 5px;
+    max-height: 30px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.gl-price{
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    color: inherit;
+    line-height: normal;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.gl-price__value{
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    cursor: pointer;
+    line-height: normal;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    box-sizing: border-box;
+    color: #000;
+    margin-right: 0;
+}
+.svgM5{
+    flex-Shrink: 0;
+    margin-left: 20px;
+    display: inline-block;
+    height: 24px;
+    vertical-align: text-top;
+    width: 24px;
+    background-image: url(https://www.graphiclibrary.com/wp-content/uploads/2019/03/heart-outline_7.png);
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: contain;
+}
+.aM5{
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    min-height: 75px;
+    padding: 10px 10px 20px;
+}
+.rigthArrow{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    height: 24px;
+    width: 24px;
+    top: 36%;
+    margin-top: -12px;
+    position: absolute;
+    z-index: 31;
+    transition: all .2s cubic-bezier(.3,0,.45,1);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: .7;
+    background-color: #fff;
+    color: #000;
+    right: 6px;
+}
+.gl-pagination{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    box-sizing: border-box;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0 8px;
+    pointer-events: auto;
+}
+.gl-pagination-item{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    list-style: none;
+    pointer-events: auto;
+    box-sizing: border-box;
+    align-items: flex-end;
+    cursor: pointer;
+    display: flex;
+    height: 12px;
+    padding: 4px 3px;
+}
+.gl-pagination-dot{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    list-style: none;
+    pointer-events: auto;
+    cursor: pointer;
+    box-sizing: border-box;
+    background: #000;
+    border-radius: 0;
+    display: block;
+    height: 1px;
+    transition: .1s cubic-bezier(.3,0,.45,1);
+    width: 18px;
+}
+.gl-pagination-item-s{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    list-style: none;
+    pointer-events: auto;
+    box-sizing: border-box;
+    align-items: flex-end;
+    cursor: pointer;
+    display: flex;
+    height: 12px;
+    padding: 4px 3px;
+}
+.gl-pagination-dot-s{
+    font-size: 16px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    user-select: none;
+    list-style: none;
+    pointer-events: auto;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 0;
+    display: block;
+    transition: .1s cubic-bezier(.3,0,.45,1);
+    width: 18px;
+    background: #000;
+    height: 4px;
+}
+.svgMF5{
+    flex-Shrink: 0;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    height: 24px;
+    vertical-align: text-top;
+    width: 24px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OCR-A_char_Greater-Than_Sign.svg/744px-OCR-A_char_Greater-Than_Sign.svg.png);
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: contain;
+}
+
+                                                            
