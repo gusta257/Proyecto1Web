@@ -17,5 +17,5 @@ Para probar el proyecto se debe clonar el repositorio en una carpeta. Luego corr
 - React
 - ESLint
 ### Página Final
-[MS DEUS](https://www.adidas.com/us).
+[MS DEUS](http://www.msdeus.site/17085/dist/).
 
