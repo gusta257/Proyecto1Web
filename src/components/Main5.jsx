@@ -26,7 +26,7 @@ class Foto5 extends Component {
                                 <div className="gl-product-card">
                                   <div className="gl-product-card-media">
                                     <a href="/us/stan-smith-shoes/EE5790.html?pr=home_rr&amp;slot=1" >
-                                      <img className="gl-product-card-image" src="//www.adidas.com/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb2eff661/zoom/EE5790_00_plp_standard.jpg?sw=276&sh=276&sm=fit&hei=276&wid=276&strip=false" alt=""/>
+                                      <img className="gl-product-card-image" src="https://www.adidas.com/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd3fc881c/zoom/EE7392_00_plp_standard.jpg?sw=276&sh=276&sm=fit&hei=276&wid=276&strip=false" alt=""/>
                                     </a>
                                     <div className="gl-product-card-wish">
                                       <div className="toggle-button">
@@ -63,7 +63,7 @@ class Foto5 extends Component {
                                 <div className="gl-product-card">
                                   <div className="gl-product-card-media">
                                     <a href="">
-                                      <img className="gl-product-card-image" src="//assets.adidas.com/images/w_840,h_840,f_auto,q_auto:sensitive,fl_lossy/25c70a990dd74210aa47a59900ebfe5d_9366/M20324_00_plp_standard.jpg?hei=276&wid=276&strip=false" alt=""/>
+                                      <img className="gl-product-card-image" src="https://www.adidas.com/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd3fc881c/zoom/EE7392_00_plp_standard.jpg?sw=276&sh=276&sm=fit&hei=276&wid=276&strip=false" alt=""/>
                                     </a>
                                     <div className="gl-product-card-wish">
                                       <div className="toggle-button">
@@ -138,7 +138,7 @@ class Foto5 extends Component {
                                 <div className="gl-product-card">
                                   <div className="gl-product-card-media">
                                     <a href="">
-                                      <img className="gl-product-card-image" src="//assets.adidas.com/images/w_840,h_840,f_auto,q_auto:sensitive,fl_lossy/a4696a90051341f49ebea59900f423f6_9366/C77124_00_plp_standard.jpg?hei=276&wid=276&strip=false" alt=""/>
+                                      <img className="gl-product-card-image" src="https://www.adidas.com/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd3fc881c/zoom/EE7392_00_plp_standard.jpg?sw=276&sh=276&sm=fit&hei=276&wid=276&strip=false" alt=""/>
                                     </a>
                                     <div className="gl-product-card-wish">
                                       <div className="toggle-button">
